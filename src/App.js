@@ -1,8 +1,10 @@
 import React from 'react';
 
+import './styles.css'
+
 const App = () => {
   return (
-    <div id='react-app'>
+    <div class='heading' id='react-app'>
       My React Boilerplate
     </div>
   )

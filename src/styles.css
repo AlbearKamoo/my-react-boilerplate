@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.heading {
+  width: 100%;
+  height: 60px;
+  padding: 20px 0px;
+  background-color: #DDDDDD;
+  text-align: center;
+  color: #3554D1;
+  font-family: 'helvetica', 'arial';
+}
