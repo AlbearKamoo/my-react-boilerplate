@@ -18,3 +18,4 @@ node_modules/
 
 # webpack
 bundle.js
+dist/
