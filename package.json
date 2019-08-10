@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/AlbearKamoo/my-react-boilerplate#readme",
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "webpack": "^4.20.2",
-    "webpack-dev-server": "^3.1.9"
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "webpack": "^4.30.2",
+    "webpack-dev-server": "^3.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
